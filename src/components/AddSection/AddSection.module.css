@@ -1,0 +1,25 @@
+.paperContainer {
+  padding: 25px 15px;
+}
+
+.header {
+  text-align: left;
+}
+
+.inputSection {
+  margin-top: 15px;
+  display: flex;
+}
+
+.input {
+  margin-right: 10px;
+}
+
+.buttonSection {
+  margin-top: 15px;
+  display: flex;
+}
+
+.buttonDiv {
+  margin-right: 10px;
+}
